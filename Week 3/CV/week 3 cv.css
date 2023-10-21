@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(210, 185, 210);
+}
+th{
+    background-color: rgb(97, 43, 54);
+}
+h1.judul{
+    margin-bottom: 100px;
+    text-align: center;
+    text-decoration: underline;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+img.foto{
+    border-radius: 10px;
+    border-color: rgb(212, 57, 57);
+    margin-right: 500px;
+}
+p{
+    margin-left: 100px;
+}
+table{
+    margin-left: 100px;
+}
